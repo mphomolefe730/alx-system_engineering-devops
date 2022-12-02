@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=7+g=5+o=3
+chmod 753 hello
